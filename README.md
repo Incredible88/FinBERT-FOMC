@@ -15,7 +15,7 @@ However, the apparent pickup in longer-term expectations, while worrisome was re
 
 ---
 **Step2.**  
-If there is a transition such as **although** and **while**, the focus will be on those paragraph except this one, and if there is a **but**, the focus will be on the paragraph containing the but. For example:
+If there is a transition such as **although**, **though** and **while**, the focus will be on those paragraph except this one, and if there is a **but**, the focus will be on the paragraph containing the but. For example:
 
 **Although** some scattered signs of cooling of the housing sector had emerged, the pace of construction activity and sales remained brisk.  
 ⇓  
