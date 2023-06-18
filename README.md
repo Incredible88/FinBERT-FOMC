@@ -2,7 +2,7 @@
 
 FinBERT-FOMC model, a language model based on enhanced sentiment analysis of FOMC meeting minutes. 
 
-FinBERT-FOMC is a FinBERT model fine-tuned on the data used FOMC minutes 2006.1 to 2023.2 with 3535 relabel complex sentences with Sentiment Focus(SF) method. It is more accurate than the original FinBERT for more complex financial sentences.
+FinBERT-FOMC is a FinBERT model fine-tuned on the data used FOMC minutes 2006.1 to 2023.2 with relabeled complex sentences using Sentiment Focus(SF) method. It is more accurate than the original FinBERT for more complex financial sentences.
 
 ## Why Fine-tune FinBERT with FOMC
 The drawbacks of FinBERT is obvious. FinBERT has great performance in simple financial sentences, when it turns to complex sentences which contains disjunctive words( Although, While, But), FinBERT would easily misclassify the sentiment. The orientation for fine-tining is to make FinBERT more fit complex financial sentences.
